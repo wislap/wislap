@@ -1,12 +1,18 @@
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wislap.wislap&"  />
-</div>
+<h1 align="center">hi there,I'm 云玩家👋 </h1>  
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<p align="center">
+  <b> 上海 | 高中生 | 全栈开发者 </b>
+</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wislap.wislap&"  />
+  <img src="https://komarev.com/ghpvc/?username=LuorixDev&label=Profile%20views&color=0e75b6&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/LuorixDev?label=Followers&style=flat-square" />
+</div>
 
 ###
 
