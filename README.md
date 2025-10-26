@@ -10,8 +10,8 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wislap.wislap&"  />
-  <img src="https://komarev.com/ghpvc/?username=LuorixDev&label=Profile%20views&color=0e75b6&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/LuorixDev?label=Followers&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=wislap&label=Profile%20views&color=0e75b6&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/wislap?label=Followers&style=flat-square" />
 </div>
 
 ###
