@@ -5,7 +5,8 @@
 ###
 
 <p align="center">
-  <b> 上海 | 高中生 | 全栈开发者 </b>
+  <b> 上海 | 高中生 | 全栈开发者 |</b>
+  <b> 熟悉python | vue react | 正在学习ml |</b>
 </p>
 
 ###
