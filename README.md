@@ -42,8 +42,12 @@
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wislap&show_icons=true&theme=transparent&hide_border=true" alt="wislap's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wislap&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wislap&theme=transparent" alt="wislap's GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wislap&theme=transparent" alt="Repos per language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wislap&theme=transparent" alt="Most commit language" />
 </p>
 
 <p align="center">
